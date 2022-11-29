@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AdultChild69
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
+- 🐱‍👤 I'm programming in python, javascript and C++
 
 
 <!---
